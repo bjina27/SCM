@@ -245,3 +245,14 @@ Tier별 협상 탄력 계수 k를 고도화하여,
 품질 기반 비용 최적화·전략적 구매 체계를 확장할 수 있으며,
 
 기업 전체 품질 전략에 직접 기여할 수 있습니다.
+
+---
+## 6. Tech Stack
+
+- Language: Python 3.x
+- Data Analysis: NumPy, Pandas, SciPy (stats, special)
+- Visualization: Matplotlib, Seaborn, mpl_toolkits.mplot3d
+- Interactive Tools: ipywidgets (interact)
+- File Handling: google.colab.files
+- Application & Deployment: Streamlit, OpenAI API, OS
+- Environment: Jupyter Notebook / Google Colab
